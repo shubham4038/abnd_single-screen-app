@@ -8,18 +8,17 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
 
-
         <ImageView
             android:id="@+id/pizzaemoji"
             android:layout_width="match_parent"
-            android:layout_height="56dp"
+            android:layout_height="@dimen/pizzaemoji"
             android:background="@color/backgroundGreen"
             android:src="@drawable/pizzaemoji" />
 
         <ImageView
             android:id="@+id/mainbackground"
             android:layout_width="match_parent"
-            android:layout_height="200dp"
+            android:layout_height="@dimen/mainBackgroundImage"
             android:layout_below="@id/pizzaemoji"
             android:background="@drawable/italianfood"
             android:scaleType="centerCrop" />
@@ -32,6 +31,18 @@
             android:scaleType="centerCrop" />
 
         <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/mainbackground"
+            android:background="@color/backgroundGreen"
+            android:fontFamily="sans-serif-light"
+            android:padding="@dimen/padding"
+            android:text="@string/description"
+            android:textColor="@color/companyDescriptionText"
+            android:textSize="@dimen/detailsTextSize" />
+
+        <TextView
             android:id="@+id/location"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -39,12 +50,11 @@
             android:autoLink="map"
             android:background="@color/backgroundWhite"
             android:fontFamily="sans-serif-medium"
-            android:paddingLeft="16dp"
-            android:paddingTop="8dp"
-            android:paddingRight="8dp"
+            android:paddingHorizontal="@dimen/padding"
+            android:paddingTop="@dimen/padding"
             android:text="@string/location"
             android:textColor="@color/companyDetailsText"
-            android:textSize="18sp" />
+            android:textSize="@dimen/detailsTextSize" />
 
         <TextView
             android:id="@+id/phone"
@@ -54,11 +64,10 @@
             android:autoLink="phone"
             android:background="@color/backgroundWhite"
             android:fontFamily="sans-serif-medium"
-            android:paddingLeft="16dp"
-            android:paddingRight="8dp"
+            android:paddingHorizontal="@dimen/padding"
             android:text="@string/phone"
             android:textColor="@color/companyDetailsText"
-            android:textSize="18sp" />
+            android:textSize="@dimen/detailsTextSize" />
 
         <TextView
             android:id="@+id/email"
@@ -68,11 +77,10 @@
             android:autoLink="email"
             android:background="@color/backgroundWhite"
             android:fontFamily="sans-serif-medium"
-            android:paddingLeft="16dp"
-            android:paddingRight="8dp"
+            android:paddingHorizontal="@dimen/padding"
             android:text="@string/email"
             android:textColor="@color/companyDetailsText"
-            android:textSize="18sp" />
+            android:textSize="@dimen/detailsTextSize" />
 
         <TextView
             android:id="@+id/url"
@@ -82,11 +90,10 @@
             android:autoLink="web"
             android:background="@color/backgroundWhite"
             android:fontFamily="sans-serif-medium"
-            android:paddingLeft="16dp"
-            android:paddingRight="8dp"
+            android:paddingHorizontal="@dimen/padding"
             android:text="@string/url"
             android:textColor="@color/companyDetailsText"
-            android:textSize="18sp" />
+            android:textSize="@dimen/detailsTextSize" />
 
         <TextView
             android:id="@+id/hours"
@@ -95,23 +102,11 @@
             android:layout_below="@id/url"
             android:background="@color/backgroundWhite"
             android:fontFamily="sans-serif-medium"
-            android:paddingLeft="16dp"
-            android:paddingRight="8dp"
-            android:paddingBottom="8dp"
+            android:paddingHorizontal="@dimen/padding"
+            android:paddingBottom="@dimen/padding"
             android:text="@string/hours"
             android:textColor="@color/companyDetailsText"
-            android:textSize="18sp" />
+            android:textSize="@dimen/detailsTextSize" />
 
-        <TextView
-            android:id="@+id/description"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/mainbackground"
-            android:background="@color/backgroundGreen"
-            android:fontFamily="sans-serif-light"
-            android:padding="8dp"
-            android:text="@string/description"
-            android:textColor="@color/companyDescriptionText"
-            android:textSize="20sp" />
     </RelativeLayout>
 </ScrollView>
