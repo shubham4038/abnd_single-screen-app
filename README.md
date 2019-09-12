@@ -20,3 +20,6 @@ Your design must include:
      ○ Description of business
   
      ○ Hours of operation
+     
+     
+     <img src="https://github.com/sandesha21/abnd_single-screen-app/blob/master/screenshots/page1.png" width="200px" height="400px" />
