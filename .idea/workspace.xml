@@ -10,14 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5e0598b-d91a-4e76-909d-6ad475392e07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,20 +87,43 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="832">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="855">
+              <caret line="57" column="47" lean-forward="true" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+              <folding>
+                <element signature="e#496#515#0" expanded="true" />
+                <element signature="e#555#576#0" expanded="true" />
+                <element signature="e#830#858#0" expanded="true" />
+                <element signature="e#898#916#0" expanded="true" />
+                <element signature="e#1224#1245#0" expanded="true" />
+                <element signature="e#1740#1756#0" expanded="true" />
+                <element signature="e#1782#1803#0" expanded="true" />
+                <element signature="e#1895#1919#0" expanded="true" />
+                <element signature="e#2304#2320#0" expanded="true" />
+                <element signature="e#2353#2369#0" expanded="true" />
+                <element signature="e#2401#2417#0" expanded="true" />
+                <element signature="e#2443#2461#0" expanded="true" />
+                <element signature="e#2549#2573#0" expanded="true" />
+                <element signature="e#2954#2970#0" expanded="true" />
+                <element signature="e#3003#3019#0" expanded="true" />
+                <element signature="e#3045#3060#0" expanded="true" />
+                <element signature="e#3148#3172#0" expanded="true" />
+                <element signature="e#3550#3566#0" expanded="true" />
+                <element signature="e#3599#3615#0" expanded="true" />
+                <element signature="e#3641#3656#0" expanded="true" />
+                <element signature="e#3744#3768#0" expanded="true" />
+                <element signature="e#4142#4158#0" expanded="true" />
+                <element signature="e#4191#4207#0" expanded="true" />
+                <element signature="e#4233#4246#0" expanded="true" />
+                <element signature="e#4334#4358#0" expanded="true" />
+                <element signature="e#4697#4713#0" expanded="true" />
+                <element signature="e#4746#4762#0" expanded="true" />
+                <element signature="e#4797#4813#0" expanded="true" />
+                <element signature="e#4839#4854#0" expanded="true" />
+                <element signature="e#4942#4966#0" expanded="true" />
+              </folding>
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -114,12 +142,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/.gitignore" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/lisasitalianrestaurant/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/test.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
@@ -134,8 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Gradle./Users/sandesha/AndroidStudioProjects/LisasItalianResturants/app [clean]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -379,7 +408,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23858616" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23858616" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -387,21 +416,21 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49852726" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.4963181" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Find" order="3" sideWeight="0.4992636" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50073636" side_tool="true" visible="true" weight="0.17446809" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5036819" side_tool="true" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32907802" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4970545" weight="0.32907802" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49484536" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="bottom" id="Android Profiler" order="9" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="10" weight="0.32907802" />
       <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.087628864" />
+      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.27098674" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Preview" order="4" weight="0.3298969" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
@@ -440,7 +469,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/italianfood.jpg" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
     <entry file="file://$PROJECT_DIR$/app/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -455,17 +483,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lisasitalianrestaurant/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/test.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="android-designer2" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lisasitalianrestaurant/test.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/test.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lisasitalianrestaurant/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -476,20 +495,66 @@
     <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="855">
+          <caret line="57" column="47" lean-forward="true" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+          <folding>
+            <element signature="e#496#515#0" expanded="true" />
+            <element signature="e#555#576#0" expanded="true" />
+            <element signature="e#830#858#0" expanded="true" />
+            <element signature="e#898#916#0" expanded="true" />
+            <element signature="e#1224#1245#0" expanded="true" />
+            <element signature="e#1740#1756#0" expanded="true" />
+            <element signature="e#1782#1803#0" expanded="true" />
+            <element signature="e#1895#1919#0" expanded="true" />
+            <element signature="e#2304#2320#0" expanded="true" />
+            <element signature="e#2353#2369#0" expanded="true" />
+            <element signature="e#2401#2417#0" expanded="true" />
+            <element signature="e#2443#2461#0" expanded="true" />
+            <element signature="e#2549#2573#0" expanded="true" />
+            <element signature="e#2954#2970#0" expanded="true" />
+            <element signature="e#3003#3019#0" expanded="true" />
+            <element signature="e#3045#3060#0" expanded="true" />
+            <element signature="e#3148#3172#0" expanded="true" />
+            <element signature="e#3550#3566#0" expanded="true" />
+            <element signature="e#3599#3615#0" expanded="true" />
+            <element signature="e#3641#3656#0" expanded="true" />
+            <element signature="e#3744#3768#0" expanded="true" />
+            <element signature="e#4142#4158#0" expanded="true" />
+            <element signature="e#4191#4207#0" expanded="true" />
+            <element signature="e#4233#4246#0" expanded="true" />
+            <element signature="e#4334#4358#0" expanded="true" />
+            <element signature="e#4697#4713#0" expanded="true" />
+            <element signature="e#4746#4762#0" expanded="true" />
+            <element signature="e#4797#4813#0" expanded="true" />
+            <element signature="e#4839#4854#0" expanded="true" />
+            <element signature="e#4942#4966#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
   </component>
   <component name="masterDetails">
