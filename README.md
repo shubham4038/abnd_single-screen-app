@@ -20,3 +20,5 @@ Your design must include:
      ○ Description of business
   
      ○ Hours of operation
+
+     The new changes i want to add.
